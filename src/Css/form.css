@@ -1,0 +1,50 @@
+*{
+    margin: 0 auto;
+}
+
+
+body{
+    /* background-image: url("../../src/images/form_background.jpg");
+    background-image: url("../../src/images/three.jpg"); */
+    background-image: url("../../src/images/two.jpg");
+    background-size: cover;
+}
+
+.heading{
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    align-items: center;
+    text-align: center;
+}
+
+.heading>h1{
+    font-size: 67px;
+    font-style: oblique;
+    font-family: serif;
+}
+
+.formArea2{
+    /* border: solid  rgba(126, 123, 215, 0.8); */
+    height: auto;
+    background-color: rgba(63, 62, 83, 0.6);
+   
+    border-radius: 10px;
+    padding-top: 50px;
+    /* padding-left: 50px;
+    padding-right: 50px; */
+}
+
+/* .formDiv{
+    margin-top: 55px;
+    margin-left: 50px;
+} */
+
+.formLabel{
+    color: black;
+    font-size: 28px;
+}
+
+.modalBTN2{
+    margin-left: 10px;
+}
